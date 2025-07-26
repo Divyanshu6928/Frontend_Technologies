@@ -209,4 +209,4 @@ If you're a developer who:
 - Wants full control
 - Hates theme bugs
 
-Then `shadcn/ui` is your new best friend 💚
+Then `shadcn/ui` is your new best friend 🤍

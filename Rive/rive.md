@@ -172,7 +172,7 @@ const MyAnimation = () => {
 
 ## 🎁 TL;DR
 
-> 🪄 **Rive** = Interactive animations without writing animations.
-> 👯‍♀️ Designers and developers finally live in harmony.
+> 🪄 **Rive** = Interactive animations without writing animations. <br>
+> 👯‍♀️ Designers and developers finally live in harmony. <br>
 > 📦 Tiny files, smooth performance, and no more boring UIs.
 
